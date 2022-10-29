@@ -2,7 +2,7 @@
 I've  created this repository to add my own mongoDB after the old one was terminated <br/>
 Here is the original working github repository we used during class: 
 https://github.com/software-assignments-spring2022/final-project-ranked <br/>
-Also note that our Digital Ocean account has been terminated, but I made a new mongoDB account accessible from any IP address, so you should still be able to run this MERN project locally following the instructions below!
+Note that our Digital Ocean account has been terminated, but I made a new mongoDB account accessible from any IP address, so you should still be able to run this MERN project locally following the instructions below!
 
 # README.md
 
