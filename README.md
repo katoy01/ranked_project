@@ -66,7 +66,7 @@ The idea for Ranked started with Chris, but none of the progress made would’ve
 1. Run `npm install` to install all dependencies listed in `package.json` onto your local machine. This is necessary before running our app, as the 3rd-party dependency code is excluded from version control by the `.gitignore` git settings file.
 2. Run `npm install -g nodemon` to install nodemon globally on your machine. Notice that the server will restart when you make changes, since nodemon handles stopping and restarting the server with each code change.
 3. Create a `.env` file and save it in the current directory. To ensure this file is configured with the correct environmental variables, please contact our Ranked developers for more information, as those data are sensitive and not allowed to be publicly shared on GitHub.
-4. Run `nodemon server` to start the back-end. In your terminal, the initial few lines of output should contain: 
+4. Run `npx nodemon server` to start the back-end. In your terminal, the initial few lines of output should contain: 
       > Server running on port: {port} <br>
       > Connected to MongoDB
 
