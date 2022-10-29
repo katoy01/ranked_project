@@ -5,7 +5,7 @@ https://github.com/software-assignments-spring2022/final-project-ranked <br/>
 Note that our Digital Ocean account has been terminated, so I will show screenshots of functionalities below:
 
 # App Functionality
-AppFunctionality.md (/AddFunctionality.md)
+[AppFunctionality.md](/AddFunctionality.md)
 
 # README.md
 
