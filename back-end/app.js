@@ -21,7 +21,7 @@ app.use("/client", express.static("client")) // create a static route that serve
 
 // connect to database
 mongoose
-  .connect(`${process.env.DB_CONNECTION_STRING}`)
+  .connect(`mongodb+srv://rankedadmin:rankedadmin@rankedcluster.9tvbag8.mongodb.net/test`)
   .then((data) => console.log(`Connected to MongoDB`))
   .catch((err) => console.error(`Failed to connect to MongoDB: ${err}`))
 
