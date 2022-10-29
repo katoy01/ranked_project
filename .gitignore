@@ -128,3 +128,6 @@ typings/
 ## Back-end
 *.json
 **/old_models/
+
+## Docker
+*/Dockerfile
