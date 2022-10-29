@@ -2,14 +2,17 @@
 I've  created this repository to add my own mongoDB after the old one was terminated <br/>
 Here is the original working github repository we used during class: 
 https://github.com/software-assignments-spring2022/final-project-ranked <br/>
-Note that our Digital Ocean account has been terminated, but I made a new mongoDB account accessible from any IP address, so you should still be able to run this MERN project locally following the instructions below!
+Note that our Digital Ocean account has been terminated, so I will show screenshots of functionalities below:
+
+# App Functionality
+AppFunctionality.md (/AddFunctionality.md)
 
 # README.md
 
 [![CircleCI](https://circleci.com/gh/software-assignments-spring2022/final-project-ranked/tree/master.svg?style=shield)](https://circleci.com/gh/software-assignments-spring2022/final-project-ranked/tree/master)
 
 ## Link to Our App Live on the Web
-[Ranked](http://157.245.85.16:3000/)
+[Ranked](http://157.245.85.16:3000/) (This does not work anymore)
 
 ## Product Vision Statement
 Ranked is a game forum site that provides developers with instant access to feedback on game updates, balance changes, and more, along with creating a community that players can refer to when looking for advice, ideas, or even whether or not the game is worth it. When a game they want to post about isn't on our app, they're able to send a Thread Request directly to our admins who ensure the game is real and has a following. Additionally, users will eventually be able to act as moderators and verify themselves with their game accounts. We (as the Ranked team) will eventually serve the community with stats on gameplay, eSports, and perceived community sentiment to further establish ourselves as an *authority* in the industry.
